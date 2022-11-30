@@ -13,7 +13,7 @@ effect is present and the lag duration is homogeneous across the individual subj
   \item{lambda1}{Baseline hazard or NULL (see details)}
   \item{t1}{Delayed duration or NULL (see details)}
   \item{p}{Proportion of subjects who survive beyond the delayed period or NULL (see details)}
-  \item{HR}{Post-delay hazard ratio}
+  \item{HR}{Post-delay hazard ratio, defined as the post-delay hazard rate of the treatment group compared to that of the control group}
   \item{tao}{Total study duration}
   \item{A}{Total enrollment duration}
   \item{beta}{Type II error rate; Power=1-beta}

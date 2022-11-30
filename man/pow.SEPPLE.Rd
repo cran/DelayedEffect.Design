@@ -14,7 +14,7 @@ is homogeneous across the individual subject
   \item{t1}{Delayed duration or NULL (see details)}
   \item{p}{Proportion of subjects who survive beyond the delayed period or NULL (see details)}
   \item{N}{Sample size}
-  \item{HR}{Post-delay hazard ratio}
+  \item{HR}{Post-delay hazard ratio, defined as the post-delay hazard rate of the treatment group compared to that of the control group}
   \item{tao}{Total study duration}
   \item{A}{Total enrollment duration}
   \item{ap}{Experimental-control allocation ratio. The default is 0.5.}
