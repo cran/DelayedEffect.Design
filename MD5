@@ -1,4 +1,4 @@
-e6b14ce7adea6e21e8b1a9fb4233d0b4 *DESCRIPTION
+58649e25446385e2439fc6fd917429e2 *DESCRIPTION
 033a0eb9d2dcd956653a2bbd60e216c7 *NAMESPACE
 446dbd82eea03e8a95cdf34e2ea1749e *R/source.R
 7dd6226d731108922478f04cdcc71fc4 *R/source_check.R
@@ -10,7 +10,7 @@ e5d9dc07c1163ab28b075c8725a896aa *man/GPW.logrank.Rd
 f95ce536a63659acb4af419d1d242967 *man/N.APPLE.Rd
 548dd5dc6ffc63240f5d619c9eaece08 *man/N.APPLE.plus.Rd
 69bf671152b733893b2ba97c08d102a9 *man/data.Rd
-08a823ec67a051be57b7ce9d6e494ed5 *man/package.Rd
+5040c3a51beebfad65751e5c60cebaf2 *man/package.Rd
 b689a26c5009a1afff4f9cb1c0f8d12e *man/pow.APPLE.Rd
 584571c179209ad81c88bb6d7011b35d *man/pow.APPLE.plus.Rd
 e466427633fcd9abc539ab88fa3ce486 *man/pow.SEPPLE.Rd

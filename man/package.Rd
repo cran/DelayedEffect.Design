@@ -1,6 +1,7 @@
 
 \name{DelayedEffect.Design}
 \alias{DelayedEffect.Design}
+\alias{DelayedEffect.Design-package}
 \docType{package}
 \title{
  Sample size and power calculations using the APPLE, SEPPLE, APPLE+ and SEPPLE+ methods
